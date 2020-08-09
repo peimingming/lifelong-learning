@@ -19,5 +19,3 @@ The territory of technical documentations.
 
 [Objective-C](Docs/Objective-C.md)
 
-[The Swift Programming Practice](https://github.com/peimingming/swift-programming-practice)
-
